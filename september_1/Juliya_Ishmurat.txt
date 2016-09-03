@@ -1,0 +1,2 @@
+Как добавить и закоммитить file1.txt?
+git commit -am 'name'
